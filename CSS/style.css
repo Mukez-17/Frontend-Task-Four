@@ -34,7 +34,7 @@
 .to_do_List h1{
     font-size: 2.5rem;
     font-weight: 300;
-    color: var(--gray);
+    color: #fff;
     display: flex;
     align-items: center;
     margin-bottom: 20px;
